@@ -1,0 +1,3 @@
+download u2net.onmx  file on GitHub and save in %userprofile%.u2net
+example user/admin/.u2net/
+link https://github.com/hpc203/u2net-onnxruntime
